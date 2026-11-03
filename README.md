@@ -6,6 +6,9 @@ A bilingual, responsive art website based on the UNFOLD Figma design. English an
 
 - Eight original page types, plus individual pages for all 24 works, six curated exhibitions and four artists.
 - English / Russian navigation with the current work, exhibition and filters preserved.
+- Light and dark themes with a persistent header toggle.
+- Animated hover underlines, a desktop cursor and content entering from both sides.
+- Floating back-to-top button after 600 px, with reduced-motion preferences respected.
 - Search across both languages, artist and medium filters, sorting and incremental loading.
 - Persistent browser-local favourites; the initial collection contains two selected works.
 - Responsive layouts, keyboard-accessible navigation, labelled controls and reduced-motion support.
