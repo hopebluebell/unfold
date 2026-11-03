@@ -2,7 +2,7 @@ const root = document.documentElement;
 const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
 const mouseAvailable = matchMedia('(min-width: 701px) and (hover: hover) and (pointer: fine)');
 // A previously cached HTML document can load the new application module.
-if (!document.querySelector('link[data-experience-style]')) {
+if (!document.querySelector('[data-experience-style]')) {
   const stylesheet = document.createElement('link');
   stylesheet.rel = 'stylesheet';
   stylesheet.href = new URL('./styles.css?v=20261103-motion-1', import.meta.url).href;

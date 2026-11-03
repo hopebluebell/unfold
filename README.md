@@ -37,3 +37,9 @@ Artwork metadata is in `assets/works.json`, with source URL, license URL, origin
 ## Editing
 
 `data.js` contains translations, artists and exhibition selections. `app.js` contains routes and interaction logic; `styles.css` contains layout and responsive rules. No backend, registration, analytics or third-party scripts are used. Collections are local to the browser and do not sync across devices.
+
+## Performance
+
+The initial Russian home is pre-rendered in HTML. The application, content catalogue and interaction code ship as one versioned bundle, avoiding sequential startup requests. Gallery crops use WebP; body/display fonts use WOFF2. Cards load 800px thumbnails; full work pages use responsive previews with a separate link to the original. Old assets remain available for cached sessions.
+
+After changing source files, run `node scripts/build-fast.mjs` to regenerate the versioned script, stylesheet and initial home.

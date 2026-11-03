@@ -37,7 +37,13 @@
     "delivery_width": 2000,
     "delivery_height": 1333,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/p01.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/p01.webp"
   },
   {
     "id": "P02",
@@ -77,7 +83,13 @@
     "delivery_width": 1600,
     "delivery_height": 2000,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/p02.webp",
+    "thumbnail_width": 640,
+    "thumbnail_height": 800,
+    "preview_width": 1229,
+    "preview_height": 1536,
+    "preview": "assets/previews/p02.webp"
   },
   {
     "id": "P03",
@@ -118,7 +130,13 @@
     "delivery_width": 1600,
     "delivery_height": 2000,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/p03.webp",
+    "thumbnail_width": 640,
+    "thumbnail_height": 800,
+    "preview_width": 1229,
+    "preview_height": 1536,
+    "preview": "assets/previews/p03.webp"
   },
   {
     "id": "P04",
@@ -159,7 +177,13 @@
     "delivery_width": 1600,
     "delivery_height": 2000,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/p04.webp",
+    "thumbnail_width": 640,
+    "thumbnail_height": 800,
+    "preview_width": 1229,
+    "preview_height": 1536,
+    "preview": "assets/previews/p04.webp"
   },
   {
     "id": "P05",
@@ -199,7 +223,13 @@
     "delivery_width": 1600,
     "delivery_height": 2000,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/p05.webp",
+    "thumbnail_width": 640,
+    "thumbnail_height": 800,
+    "preview_width": 1229,
+    "preview_height": 1536,
+    "preview": "assets/previews/p05.webp"
   },
   {
     "id": "P06",
@@ -240,7 +270,13 @@
     "delivery_width": 2000,
     "delivery_height": 1333,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/p06.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/p06.webp"
   },
   {
     "id": "C01",
@@ -281,7 +317,13 @@
     "delivery_width": 1333,
     "delivery_height": 2000,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/c01.webp",
+    "thumbnail_width": 533,
+    "thumbnail_height": 800,
+    "preview_width": 1024,
+    "preview_height": 1536,
+    "preview": "assets/previews/c01.webp"
   },
   {
     "id": "C02",
@@ -322,7 +364,13 @@
     "delivery_width": 1333,
     "delivery_height": 2000,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/c02.webp",
+    "thumbnail_width": 533,
+    "thumbnail_height": 800,
+    "preview_width": 1024,
+    "preview_height": 1536,
+    "preview": "assets/previews/c02.webp"
   },
   {
     "id": "C03",
@@ -363,7 +411,13 @@
     "delivery_width": 2000,
     "delivery_height": 1333,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/c03.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/c03.webp"
   },
   {
     "id": "C04",
@@ -404,7 +458,13 @@
     "delivery_width": 2000,
     "delivery_height": 1333,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/c04.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/c04.webp"
   },
   {
     "id": "C05",
@@ -445,7 +505,13 @@
     "delivery_width": 2000,
     "delivery_height": 1333,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/c05.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/c05.webp"
   },
   {
     "id": "C06",
@@ -486,7 +552,13 @@
     "delivery_width": 1333,
     "delivery_height": 2000,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/c06.webp",
+    "thumbnail_width": 533,
+    "thumbnail_height": 800,
+    "preview_width": 1024,
+    "preview_height": 1536,
+    "preview": "assets/previews/c06.webp"
   },
   {
     "id": "F01",
@@ -527,7 +599,13 @@
     "delivery_width": 1920,
     "delivery_height": 1468,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/f01.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 612,
+    "preview_width": 1536,
+    "preview_height": 1174,
+    "preview": "assets/previews/f01.webp"
   },
   {
     "id": "F02",
@@ -568,7 +646,13 @@
     "delivery_width": 2000,
     "delivery_height": 1543,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/f02.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 617,
+    "preview_width": 1536,
+    "preview_height": 1185,
+    "preview": "assets/previews/f02.webp"
   },
   {
     "id": "F03",
@@ -609,7 +693,13 @@
     "delivery_width": 1920,
     "delivery_height": 1402,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/f03.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 584,
+    "preview_width": 1536,
+    "preview_height": 1122,
+    "preview": "assets/previews/f03.webp"
   },
   {
     "id": "F04",
@@ -650,7 +740,13 @@
     "delivery_width": 1280,
     "delivery_height": 977,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/f04.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 611,
+    "preview_width": 1280,
+    "preview_height": 977,
+    "preview": "assets/previews/f04.webp"
   },
   {
     "id": "F05",
@@ -691,7 +787,13 @@
     "delivery_width": 1920,
     "delivery_height": 1440,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/f05.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 600,
+    "preview_width": 1536,
+    "preview_height": 1152,
+    "preview": "assets/previews/f05.webp"
   },
   {
     "id": "F06",
@@ -732,7 +834,13 @@
     "delivery_width": 1920,
     "delivery_height": 1563,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/f06.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 651,
+    "preview_width": 1536,
+    "preview_height": 1250,
+    "preview": "assets/previews/f06.webp"
   },
   {
     "id": "S01",
@@ -773,7 +881,13 @@
     "delivery_width": 1920,
     "delivery_height": 1280,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/s01.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/s01.webp"
   },
   {
     "id": "S02",
@@ -814,7 +928,13 @@
     "delivery_width": 1920,
     "delivery_height": 1280,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/s02.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/s02.webp"
   },
   {
     "id": "S03",
@@ -855,7 +975,13 @@
     "delivery_width": 1920,
     "delivery_height": 1280,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/s03.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/s03.webp"
   },
   {
     "id": "S04",
@@ -896,7 +1022,13 @@
     "delivery_width": 1920,
     "delivery_height": 1280,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/s04.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/s04.webp"
   },
   {
     "id": "S05",
@@ -937,7 +1069,13 @@
     "delivery_width": 1920,
     "delivery_height": 1280,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/s05.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/s05.webp"
   },
   {
     "id": "S06",
@@ -978,6 +1116,12 @@
     "delivery_width": 1920,
     "delivery_height": 1280,
     "delivery_format": "WebP",
-    "delivery_note": "Proportional web delivery copy; full source and original metadata retained."
+    "delivery_note": "Proportional web delivery copy; full source and original metadata retained.",
+    "thumbnail": "assets/thumbs/s06.webp",
+    "thumbnail_width": 800,
+    "thumbnail_height": 533,
+    "preview_width": 1536,
+    "preview_height": 1024,
+    "preview": "assets/previews/s06.webp"
   }
 ]

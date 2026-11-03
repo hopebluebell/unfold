@@ -1,8 +1,8 @@
-@font-face{font-family:Anton;src:url('assets/fonts/anton.ttf') format('truetype');font-display:swap}
-@font-face{font-family:Oswald;src:url('assets/fonts/oswald.ttf') format('truetype');font-weight:200 700;font-display:swap}
-@font-face{font-family:Manrope;src:url('assets/fonts/manrope.ttf') format('truetype');font-weight:200 800;font-display:swap}
-@font-face{font-family:'Space Grotesk';src:url('assets/fonts/space-grotesk.ttf') format('truetype');font-weight:300 700;font-display:swap}
-@font-face{font-family:Caveat;src:url('assets/fonts/caveat.ttf') format('truetype');font-weight:400 700;font-display:swap}
+@font-face{font-family:Anton;src:url('assets/fonts/anton.woff2') format('woff2');font-display:swap}
+@font-face{font-family:Oswald;src:url('assets/fonts/oswald.woff2') format('woff2');font-weight:200 700;font-display:swap}
+@font-face{font-family:Manrope;src:url('assets/fonts/manrope.woff2') format('woff2');font-weight:200 800;font-display:swap}
+@font-face{font-family:'Space Grotesk';src:url('assets/fonts/space-grotesk.woff2') format('woff2');font-weight:300 700;font-display:swap}
+@font-face{font-family:Caveat;src:url('assets/fonts/caveat.woff2') format('woff2');font-weight:400 700;font-display:swap}
 :root{--paper:#f5f0e8;--ink:#171717;--accent:#ff503e;--line:#cecac3;--body:Manrope,sans-serif;--display:Oswald,sans-serif;--u:min(.069444444vw,1px);--gutter:clamp(24px,4.722222vw,68px)}
 html[lang=en]{--body:'Space Grotesk',sans-serif;--display:Anton,sans-serif}
 *{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:120px}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.5 var(--body);-webkit-font-smoothing:antialiased}body.modal-open{overflow:hidden}button,input,select{font:inherit;color:inherit}button,a,input,select{-webkit-tap-highlight-color:transparent}button{cursor:pointer}button:disabled{cursor:default}a{color:inherit;text-decoration:none}a:hover{text-decoration-thickness:1px;text-underline-offset:5px}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:5px}button{border:0;background:none;padding:0}img{display:block;max-width:100%;object-fit:cover}h1,h2,h3,p{margin:0}h1,h2,h3{font-weight:700}h1,h2{font-family:var(--display);text-transform:uppercase;font-weight:700;line-height:1.15}html[lang=en] h1,html[lang=en] h2{font-weight:400}h3{font-weight:400}button,a{touch-action:manipulation}.container{width:100%;max-width:1440px;padding:0 var(--gutter);margin:auto}.accent{color:var(--accent)}.metadata{text-transform:uppercase;font-size:12px;line-height:1.5}.sr-only{position:absolute!important;clip:rect(0,0,0,0);width:1px;height:1px;overflow:hidden;white-space:nowrap}.skip-link{position:fixed;top:12px;left:16px;z-index:20;padding:12px 20px;background:var(--ink);color:var(--paper);transform:translateY(-180%)}.skip-link:focus{transform:none}
@@ -41,7 +41,7 @@ html[lang=en] .idea-copy h2,html[lang=en] .how-to>h2{letter-spacing:.01em}
 @media(min-width:1251px){html[lang=en] .desktop-nav a:nth-child(2){left:29.51389%}html[lang=en] .desktop-nav a:nth-child(3){left:36.52778%}html[lang=en] .desktop-nav a:nth-child(4){left:43.40278%}}
 @media(min-width:1001px){html[lang=en] .artists-page .heading-line h1{font-size:220px}html[lang=en] .collection-page .heading-line h1{font-size:180px}html[lang=en] .about-page .page-heading h1{font-size:224px}html[lang=en] .catalog-heading h1{font-size:100px}html[lang=en] .exhibition-intro h1{font-size:92px}html[lang=en] .idea-copy h2{font-size:104px;line-height:1.05}.artwork-heading{padding-top:52px}.artwork-heading h1{line-height:130px}.artwork-heading .handwritten{top:66px}.artwork-heading>.metadata{bottom:54px}html[lang=en] .artwork-heading>.metadata{left:36%}}
 @media(max-width:700px){.work-description{margin-top:20px;padding-top:24px}.related-works{margin-top:40px;padding-top:22px}.related-works>h2{line-height:1.25;margin-bottom:24px}}
-@media(max-width:700px){.collection-link:before{clip-path:none;border:0;background:url('assets/figma/053.png') center/contain no-repeat;width:16px;height:18px}.work-card .metadata{font-size:10px}.featured-card h3{font-size:12px}}
+@media(max-width:700px){.collection-link:before{clip-path:none;border:0;background:url('assets/figma/053.webp') center/contain no-repeat;width:16px;height:18px}.work-card .metadata{font-size:10px}.featured-card h3{font-size:12px}}
 .note-decoration{position:absolute;pointer-events:none;object-fit:contain}.page-heading .handwritten:after{display:none}.artists-deco{width:198px;height:33px;right:24px;top:244px}.archive-page .page-heading .handwritten{right:270px}.archive-deco{width:127px;height:40px;right:254px;top:97px}.collection-deco{width:36px;height:40px;right:86px;top:162px}.about-deco-one{width:76px;height:10px;right:256px;top:211px}.about-deco-two{width:54px;height:7px;right:267px;top:221px}.work-note-arrow{position:absolute;left:61%;top:108px;width:98px;height:98px;pointer-events:none}
 @media(max-width:1000px){.archive-page .page-heading .handwritten{right:20px}.note-decoration{display:none}}
 @media(max-width:700px){.work-note-arrow{display:none}}
@@ -109,3 +109,7 @@ main{overflow-x:clip}
   :root.cursor-visible,:root.cursor-visible *{cursor:none!important}
 }
 @media(prefers-reduced-motion:reduce){.reveal-waiting{opacity:1!important}.cursor-ring{transition:none}.back-to-top,.theme-ready .back-to-top{transition:none!important}}
+
+[data-initial-view=route] #main[data-prerender],[data-initial-view=route] #header[data-prerender]{visibility:hidden}
+#site-loading{display:none}
+[data-initial-view=route] #site-loading{display:grid;place-items:center;min-height:62vh;font:400 clamp(64px,14vw,140px)/1 Anton,sans-serif;letter-spacing:-.03em}
